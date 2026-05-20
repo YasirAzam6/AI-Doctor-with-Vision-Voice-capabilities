@@ -1,0 +1,8 @@
+{
+  "name": "Diagnostic Station v4.0",
+  "description": "A high-precision Medical Diagnostic Dashboard with AI-powered vision and voice analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
